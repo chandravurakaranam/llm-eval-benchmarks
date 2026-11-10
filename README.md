@@ -1,6 +1,6 @@
 # 🧠 Automated LLM Evaluation & Inference Observability Harness
 
-*Automated eval run execution timestamp:* **2026-11-09 20:37:38 UTC**
+*Automated eval run execution timestamp:* **2026-11-10 17:38:06 UTC**
 
 An automated MLOps evaluation and benchmarking engine designed to measure open-weights Large Language Model (LLM) performance, tracking **Inference Latency (ms)**, **Generation Throughput (Tokens/sec)**, and **Eval Accuracy Indices** across major open models.
 
@@ -8,13 +8,13 @@ An automated MLOps evaluation and benchmarking engine designed to measure open-w
 
 | Model Architecture | Latency (ms) | Throughput (Tokens/s) | Quality Score Index | Success Rate |
 | :--- | :--- | :--- | :--- | :--- |
-| **Meta Llama 3.2 1B** | `760.63 ms` | `76.69 t/s` | `88.2%` | `100.0%` |
-| **Google Gemma 2 2B** | `577.75 ms` | `78.47 t/s` | `94.6%` | `100.0%` |
-| **Qwen 2.5 1.5B** | `484.62 ms` | `119.68 t/s` | `91.1%` | `100.0%` |
-| **Microsoft Phi 3.5 Mini** | `612.44 ms` | `76.2 t/s` | `90.7%` | `100.0%` |
+| **Meta Llama 3.2 1B** | `564.66 ms` | `114.52 t/s` | `91.9%` | `100.0%` |
+| **Google Gemma 2 2B** | `659.17 ms` | `80.91 t/s` | `90.1%` | `100.0%` |
+| **Qwen 2.5 1.5B** | `659.86 ms` | `80.83 t/s` | `90.9%` | `100.0%` |
+| **Microsoft Phi 3.5 Mini** | `513.52 ms` | `97.37 t/s` | `89.5%` | `100.0%` |
 
 ### 📊 Inference Performance Pareto Curve
-![LLM Performance Matrix](llm_performance_matrix.png?v=1794256658)
+![LLM Performance Matrix](llm_performance_matrix.png?v=1794332286)
 
 ---
 
